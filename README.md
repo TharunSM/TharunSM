@@ -1,4 +1,4 @@
-### Welcome to tharun tech - Git profile -<img align="left"  alt="Python" width="24px" src="favicon-32x32.png" />
+### Welcome to TharunTech Github-Profile  <img align="left"  alt="Python" width="24px" src="favicon-32x32.png" />
 
 <!--
 **TharunTech/TharunTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
