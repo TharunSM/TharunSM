@@ -1,8 +1,5 @@
 ### Welcome to TharunTech Github-Profile  <img align="left"  alt="Python" width="24px" src="favicon-32x32.png" />
 
-### My Stats ⚡️
-
-![Github Stats](https://github-stats-alpha.vercel.app/api/?username=TharunTech&tc=333&ic=333)
 
 ### Skills 👨‍💻
 
@@ -18,3 +15,7 @@
 <img align="left" alt="CSS" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/css3.svg" />
 </br>
 </br>
+
+### My Stats ⚡️
+
+![Github Stats](https://github-stats-alpha.vercel.app/api/?username=TharunTech&tc=333&ic=333)
