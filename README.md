@@ -1,6 +1,6 @@
-### Welcome to TharunTech Github-Profile    <a href="https://www.instagram.com/i_technical_guy">
+### Welcome to TharunTech Github-Profile  <p><a href="https://www.instagram.com/i_technical_guy">
     <img align="left" alt="Sumanjay Instagram" width="24px" src="favicon-32x32.png" />
-  </a>
+  </a></p>
 
 
 ### Skills 👨‍💻
