@@ -1,4 +1,4 @@
-### Welcome to TharunTech Github-Profile  <img align="left"  alt="Python" width="24px" src="favicon-32x32.png" />
+### Welcome to TharunTech Github-Profile  <img align="left"  alt="my_logo" width="24px" src="favicon-32x32.png" />
 
 
 ### Skills 👨‍💻
