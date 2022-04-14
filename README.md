@@ -36,6 +36,8 @@
 
 </br>
 </br>
+<i>Note: The above are the skills im interested in , doesnt mean im a expert in it </i>
+
 
 ### My Stats ⚡️
 
