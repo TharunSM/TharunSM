@@ -10,7 +10,7 @@
 <img align="left" alt="C" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/c.svg" />
 <img align="left" alt="C++" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/cplusplus.svg" />
 <img align="left" alt="Java" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/java.svg" />
-<img align="left" alt="bash" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/bash.svg" />
+<img align="left" alt="bash" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/official-bash-logo.svg" />
 <img align="left" alt="GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
 <img align="left" alt="Metasploit" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/metasploit.svg" />
 
