@@ -1,4 +1,4 @@
-<img align="center" alt="cover-photo" width="1000px" height="400px" src="cover-pic.PNG" />
+<img align="center" alt="cover-photo" width="1000px" height="400px" src="cover-pic.png" />
 
 ### Welcome to TharunTech Github-Profile  <img align="left" alt="Sumanjay Instagram" width="24px" src="favicon-32x32.png" />
 </br>
