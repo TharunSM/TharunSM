@@ -23,7 +23,7 @@
 <img align="left" alt="JavaScript" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/javascript.svg" />
 </br>
 
-### DB
+### Cloud/DB
 <img align="left" alt="MongoDB" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/amazonaws.svg" />
 <img align="left" alt="MySQL" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/mysql.svg" />
 
