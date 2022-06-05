@@ -42,9 +42,10 @@
 
 
 ### My Stats ⚡️
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=TharunTech&show_icons=true&locale=en&layout=compact" alt="TharunTech" /></p>
+
 
 ![Github Stats](https://github-stats-alpha.vercel.app/api/?username=TharunTech&tc=333&ic=333)
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=TharunTech&show_icons=true&locale=en&layout=compact" alt="TharunTech" /></p>
 
 
 </br>
