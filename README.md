@@ -42,33 +42,29 @@
 
 
 ### My Stats ⚡️
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=TharunTech&show_icons=true&locale=en&layout=compact" alt="TharunTech" /></p>
 
 ![Github Stats](https://github-stats-alpha.vercel.app/api/?username=TharunTech&tc=333&ic=333)
 
 
 </br>
-</br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TharunTech&show_icons=true&locale=en&layout=compact" alt="TharunTech" /></p>
 
-
-</br>
-</br>
 
 ### Contact Me 👇
 <p>
   <a href="https://www.linkedin.com/in/tharun-s-m-370767195/">
-    <img align="left" alt="Sumanjay LinkedIN" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img align="left" alt="Tharun LinkedIN" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <a href="https://www.instagram.com/i_technical_guy">
-    <img align="left" alt="Sumanjay Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/instagram.svg" />
+    <img align="left" alt="TharunInstagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/instagram.svg" />
   </a>
     <a href="https://www.facebook.com/tharun.tec.1">
-    <img align="left" alt="Sumanjay Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/facebook.svg" />
+    <img align="left" alt="Tharun Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/facebook.svg" />
   </a>
   <a href="https://discord.gg/9CgsYtANSB">
-    <img align="left" alt="Sumanjay Portfolio" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/discord.svg" />
+    <img align="left" alt="Tharun Portfolio" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/discord.svg" />
   </a>
   <a href="https://www.youtube.com/channel/UC7jcQ9qhjz9H7r6NVDIGOBA">
-    <img align="left" alt="Sumanjay YouTube" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
+    <img align="left" alt="Tharun YouTube" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
   </a>
 </p>
