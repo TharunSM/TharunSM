@@ -48,7 +48,7 @@
 
 </br>
 </br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TharunTeche&show_icons=true&locale=en&layout=compact" alt="TharunTech" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TharunTech&show_icons=true&locale=en&layout=compact" alt="TharunTech" /></p>
 
 ### Contact Me 👇
 <p>
