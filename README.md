@@ -50,6 +50,10 @@
 </br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TharunTech&show_icons=true&locale=en&layout=compact" alt="TharunTech" /></p>
 
+
+</br>
+</br>
+
 ### Contact Me 👇
 <p>
   <a href="https://www.linkedin.com/in/tharun-s-m-370767195/">
