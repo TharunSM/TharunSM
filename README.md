@@ -1,6 +1,6 @@
 <img align="center" alt="cover-photo" width="1000px" height="400px" src="cover-pic.png" />
 
-### Welcome to TharunTech Github-Profile  <img align="left" alt="Sumanjay Instagram" width="24px" src="favicon-32x32.png" />
+### Welcome to TharunTech Github-Profile  <img align="left" width="24px" src="favicon-32x32.png" />
 </br>
 
 ### Skills 👨‍💻
@@ -24,8 +24,9 @@
 </br>
 
 ### Cloud/DB
-<img align="left" alt="MongoDB" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/amazonaws.svg" />
+<img align="left" alt="AWS" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/amazonaws.svg" />
 <img align="left" alt="MySQL" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/mysql.svg" />
+<img align="left" alt="MongoDB" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/mongodb.svg" />
 
 </br>
 
@@ -33,8 +34,7 @@
 ### UX/UI Designing
 <img align="left" alt="CSS" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/figma.svg" />
 <img align="left" alt="adobe-xd" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/adobexd.svg" />
-<img align="left" alt="adobe-ps" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/adobephotoshop.svg" />
-<img align="left" alt="adobe-ae" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/adobeaftereffects.svg" />
+
 
 </br>
 </br>
