@@ -41,14 +41,7 @@
 <i>Note: The above are the skills im interested in , doesnt mean im a expert in it </i>
 
 
-### My Stats ⚡️
 
-
-![Github Stats](https://github-stats-alpha.vercel.app/api/?username=TharunTech&tc=333&ic=333)
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=TharunTech&show_icons=true&locale=en&layout=compact" alt="TharunTech" /></p>
-
-
-</br>
 
 
 ### Contact Me 👇
