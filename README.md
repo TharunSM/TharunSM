@@ -37,7 +37,7 @@
 
 ### UX/UI Designing
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" align="left" width="24px"/>
-<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" align="left" width="24px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="xd" align="left" width="24px"/>
 
 
 </br>
