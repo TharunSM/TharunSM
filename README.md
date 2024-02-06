@@ -15,9 +15,7 @@
 </br>
 
 ### Software Development and Other Technology
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" align="left" width="24px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" align="left" width="24px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="Spring" align="left" width="24px"/>
 <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" align="left" width="24px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" align="left" width="24px"/>
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" align="left" width="24px"/>
