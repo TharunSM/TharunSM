@@ -1,7 +1,10 @@
 <img align="center" alt="cover-photo" width="1000px" height="400px" src="cover-pic.png" />
 
-### Welcome to TharunTech Github-Profile  <img align="left" width="24px" src="favicon-32x32.png" />
-</br>
+### Welcome to TharunTech Github-Profile  <img align="left" width="24px" src="favicon-32x32.png" />  </a>
+  <a href="https://drive.google.com/file/d/1tMQfiOBcTPmaYyyOtiURxuG8TJNumEzS/view?usp=sharing">
+    <i>Resume</i>
+  </a>
+
 
 ### Skills 👨‍💻
 
