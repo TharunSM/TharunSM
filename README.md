@@ -54,7 +54,7 @@
 
 ### Contact Me 👇
 <p>
-  <a href="https://www.linkedin.com/in/tharun-s-m-370767195/">
+  <a href="https://discord.gg/9CgsYtANSB">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" align="left" width="24px"/>
   </a>
   <a href="https://www.instagram.com/i_technical_guy">
@@ -63,7 +63,7 @@
     <a href="https://www.facebook.com/tharun.tec.1">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" align="left" width="24px"/>
   </a>
-  <a href="https://discord.gg/9CgsYtANSB">
+  <a href="https://www.linkedin.com/in/tharun-s-m-370767195/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="discord" align="left" width="24px"/>
   </a>
   <a href="https://www.youtube.com/channel/UC7jcQ9qhjz9H7r6NVDIGOBA">
