@@ -6,6 +6,8 @@
     <i>Resume</i>
   </a>
 
+  ### <a href="https://tharuntech.netlify.app/"><i>My Website</i></a>
+
 
 ### Skills 👨‍💻
 
