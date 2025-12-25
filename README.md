@@ -60,6 +60,6 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" align="left" width="24px"/>
   </a>
     <a href="https://tharuntech.netlify.app/">
-    <img src="https://img.icons8.com/color/60/domain--v1.png" alt="tharuntech.netlify.app" align="left" width="24px"/>
+    <img src="https://img.icons8.com/color/60/domain--v1.png" alt="tharuntech.netlify.app" align="left"/>
   </a>
 </p>
