@@ -2,7 +2,7 @@
 
 ### Welcome to Tharun S.M. Github-Profile  <img align="left" width="24px" src="favicon-32x32.png" />  </a>
 <i>View my</i>
-  <a href="https://drive.google.com/file/d/1tMQfiOBcTPmaYyyOtiURxuG8TJNumEzS/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1szhsFSfVVVjvj28aM9td7WdeSTUHNpl4/view?usp=sharing">
     <i>Resume</i>
   </a>
 
